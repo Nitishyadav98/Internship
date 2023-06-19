@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import Value from "./value";
-import { CounterProvider, counterContext } from "../Context/counterContext";
+import { counterContext } from "../Context/counterContext";
 
 const Counter =()=>{
 
